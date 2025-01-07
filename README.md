@@ -7,6 +7,7 @@
 ## materials
 
 - <https://github.com/ducnpdev/open-dev>
+- <https://devdocs.io/go/>
 - <https://zalopay-oss.github.io/go-advanced/>
 - <https://github.com/avelino/awesome-go>
 - <https://github.com/bxcodec/go-clean-arch>
